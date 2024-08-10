@@ -20,10 +20,8 @@ sudo apt install -y \
     numix-icon-theme \
     numix-icon-theme-circle \
     moka-icon-theme \
-    arc-icon-theme \
     breeze-icon-theme \
     elementary-icon-theme \
-    vertex-theme \
     numix-gtk-theme \
     gnome-control-center \
     glances \
